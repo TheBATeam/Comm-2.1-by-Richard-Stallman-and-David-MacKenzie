@@ -1,0 +1,10 @@
+Usage: comm.exe [OPTION]... LEFT_FILE RIGHT_FILE
+Compare sorted files LEFT_FILE and RIGHT_FILE line by line.
+
+  -1              suppress lines unique to left file
+  -2              suppress lines unique to right file
+  -3              suppress lines that appear in both files
+      --help     display this help and exit
+      --version  output version information and exit
+
+Report bugs to <bug-textutils@gnu.org>.
